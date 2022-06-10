@@ -75,7 +75,7 @@
 		<!-- velocity工具 -->
 		<velocity.tools.version>2.0</velocity.tools.version>
 		<!-- zookeeper -->
-		<dubbo.version>2.5.3</dubbo.version>
+		<dubbo.version>2.6.12</dubbo.version>
 		<!-- zookeeper -->
 		<zookeeper.version>3.3.6</zookeeper.version>
 		<!-- zkclient -->
